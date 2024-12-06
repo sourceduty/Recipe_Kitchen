@@ -8,6 +8,9 @@
 Beyond creation, this GPT also allows users to test their recipes virtually. It simulates whether the recipe is likely to cook properly and offers an estimation of how the dish might taste. If the recipe fails, that's part of the fun—it encourages creativity and exploration, even if the results are unconventional. Recipe Kitchen promotes an interactive and playful experience in culinary experimentation while providing an educational opportunity for users to learn about ingredient pairings, proportions, and cooking techniques.
 
 #
+![9 Can](https://github.com/user-attachments/assets/2297ffd7-8c28-43e0-83b9-42ec0111387e)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
